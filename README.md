@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sufal6785&theme=dark" alt="GitHub Streak" />
-  <img width="185" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Coder"/>
+<!--   <img width="185" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Coder"/> -->
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="185" alt="Programming"/>
 </p>
 
 <p align="center">
@@ -10,9 +11,9 @@
 
 <div id="header" align="center">
   <div id="badges">
-    <a href="https://www.linkedin.com/in/your-linkedin">
+<!--     <a href="https://www.linkedin.com/in/your-linkedin">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
+    </a> -->
     <a href="https://www.facebook.com/sufal.legend.77">
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
     </a>
