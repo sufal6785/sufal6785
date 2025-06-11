@@ -66,8 +66,8 @@ I'm an enthusiastic developer deeply invested in **problem-solving** and **techn
 
 <div align="center">
   
-[![Courses](https://github-readme-stats.vercel.app/api/pin/?username=sufal6785&repo=Courses&theme=dracula&hide_border=true)](https://github.com/sufal6785/Courses)
-[![Problem Solving with C](https://github-readme-stats.vercel.app/api/pin/?username=sufal6785&repo=problem-solving-with-c&theme=dracula&hide_border=true)](https://github.com/sufal6785/problem-solving-with-c)
+[![Courses](https://github-readme-stats.vercel.app/api/pin/?username=sufal6785&repo=Courses&theme=dracula&hide_border=true&cache_seconds=1800)](https://github.com/sufal6785/Courses)
+[![Problem Solving with C](https://github-readme-stats.vercel.app/api/pin/?username=sufal6785&repo=problem-solving-with-c&theme=dracula&hide_border=true&cache_seconds=1800)](https://github.com/sufal6785/problem-solving-with-c)
 
 </div>
 
